@@ -32,4 +32,4 @@ Ces tests utilisent 2 outils :
 * Jest : c'est l'outil de tests utilisé principalement par React (un framework JS, comme VueJS)
 * Puppeteer : un outil qui permet de contrôler le navigateur chrome à distance
 
-https://travis-ci.org/AlexBoudonnat/module-test-puppeteer.svg?branch=master
+[![Build Status](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer.svg?branch=master)](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer)
