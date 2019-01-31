@@ -3,7 +3,7 @@ Tests avec puppeteer
 
 Repo cloned from https://github.com/le-campus-numerique/module-test-puppeteer - Based on the work done by Philippe Le Van
 
-[![Build Status](https://travis-ci.org/campus-digital-grenoble/module-test-puppeteer.svg?branch=master)](https://travis-ci.org/campus-digital-grenoble/module-test-puppeteer)
+[![Build Status](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer.svg?branch=master)](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer)
 
 Quick start
 -----------
@@ -31,5 +31,3 @@ Ces tests utilisent 2 outils :
 
 * Jest : c'est l'outil de tests utilisé principalement par React (un framework JS, comme VueJS)
 * Puppeteer : un outil qui permet de contrôler le navigateur chrome à distance
-
-[![Build Status](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer.svg?branch=master)](https://travis-ci.org/AlexBoudonnat/module-test-puppeteer)
